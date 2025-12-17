@@ -49,6 +49,3 @@ Since Google AI Studio currently does not support bulk deletion, this script aut
 ### 常见问题
 * **脚本没反应？**: Google 可能会更新前端代码。如果脚本失效，通常是按钮的 Class 名发生了变化。
 * **速度太慢？**: 为了防止触发 Google 的请求限制（429 Too Many Requests）以及等待列表刷新，脚本设置了 1.5 秒的安全间隔。
-
-## License
-MIT
